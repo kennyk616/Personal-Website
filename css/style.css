@@ -43,6 +43,11 @@ body {background:#000;
 .bgtext, .footertext 
 		{color:#222;
 		 font-family:verdana, helvetica, sans serif;}
+
+#index-bgtext
+{
+	color:#00FF00;
+}
 		 
 .footertext {font-size:12px;
 			 position:absolute;
