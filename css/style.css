@@ -154,7 +154,7 @@ div#content {position:absolute;
 			 top:-50px;
 			 left:-150px;
 			 width:800px;
-			 height: 600px;
+			 height: 550px;
 			 overflow: auto;
 			 font-family: verdana, helvetica, sans serif;
 			 font-size: 13px;
@@ -178,7 +178,7 @@ div#close, div#top
    
 div#top {position:relative;
 		   left:658px;
-		   top:519px}
+		   top:469px}
 
 div#close {position:relative;
 		   left:658px;
