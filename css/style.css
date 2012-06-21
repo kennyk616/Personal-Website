@@ -151,10 +151,10 @@ div#inner a:hover {text-decoration:none}
 
 
 div#content {position:absolute;
-			 top:-230px;
+			 top:-50px;
 			 left:-150px;
 			 width:800px;
-			 height: 700px;
+			 height: 600px;
 			 overflow: auto;
 			 font-family: verdana, helvetica, sans serif;
 			 font-size: 13px;
@@ -178,11 +178,11 @@ div#close, div#top
    
 div#top {position:relative;
 		   left:658px;
-		   top:439px}
+		   top:519px}
 
 div#close {position:relative;
 		   left:658px;
-		   top:-237px;}
+		   top:-47px;}
 		   
 div#inner div#close a:link, div#inner div#top a:link {color:#fff; cursor:default;}
 div#inner div#close a:visited, div#inner div#top a:visited {color:#fff; cursor:default;}
@@ -193,7 +193,7 @@ div#inner div#close a:hover, div#inner div#top a:hover {color:#fff; cursor:defau
 div#urltext {font-family:verdana, helvetica, sans serif;
 			 font-size:30px;
 			 position:absolute;
-			 top:-267px;
+			 top:-87px;
 			 left:-149px}
 
 
