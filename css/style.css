@@ -35,7 +35,7 @@ body {background:#000;
 
 .bgtext 					
 		{
-		color:#222;
+		color:#171717;
 		 font-family: HelveticaNeue, Georgia, serif;
 		font-size: 150px;
 		 position:absolute;
@@ -64,7 +64,7 @@ div#footertext {
 
 
 div#text1, div#text2, div#text3, div#text4, div#text5, div#text6, div#text7
-         {color:#222222;
+         {color:#171717;
 		  font-family: verdana, helvetica, sans serif;
 		  position:absolute;}
 
