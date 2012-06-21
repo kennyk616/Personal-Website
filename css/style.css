@@ -256,3 +256,8 @@ div#content {margin-left:0;
 .project-pic
 {
 }
+div#top-page
+{
+	position: relative;
+	top: -30px
+}
