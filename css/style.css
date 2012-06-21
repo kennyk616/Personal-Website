@@ -53,16 +53,14 @@ body {background:#000;
 	text-shadow: -3px 3px 10px yellow;
 }
 		 
-.footertext {
-			/*color:#222;*/
+div#footertext {
 			color: white;
 			font-family:verdana, sans serif;
 			font-size:12px;
 			 position:absolute;
-			 top:400px;
+			 top:380px;
 			 text-align:center;
 			 width:500px}
-
 
 
 div#text1, div#text2, div#text3, div#text4, div#text5, div#text6, div#text7
@@ -164,7 +162,7 @@ div#content {position:absolute;
 			 text-align:justify;
 			 margin:3px;}
 
-div#inner div#content a:hover {text-decoration:underline;}
+div#inner div#content a:hover, div#inner div#footertext a:hover {text-decoration:underline;}
 			 
 
 
@@ -200,7 +198,7 @@ div#urltext {font-family:verdana, helvetica, sans serif;
 
 
 
-div#urltext, div#inner div#content a:link, div#inner div#content a:visited, div#inner a:hover, div#inner a:hover span
+div#urltext, div#inner div#content a:link, div#inner div#content a:visited, div#inner a:hover, div#inner a:hover span, div#footertext a:link, div#footertext a:visited
    			 {color:#ff7c11}
 			 
 div#content div#titlebar {border: 1px solid #222222;
