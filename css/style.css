@@ -36,7 +36,7 @@ body {background:#000;
 .bgtext 					
 		{
 		color:#222;
-		 font-family:verdana, sans serif;
+		 font-family: HelveticaNeue, Georgia, serif;
 		font-size: 150px;
 		 position:absolute;
 		 top:50px;
@@ -54,13 +54,14 @@ body {background:#000;
 }
 		 
 .footertext {
-			color:#222;
-			font-family:verdana, sans serif
+			/*color:#222;*/
+			color: white;
+			font-family:verdana, sans serif;
 			font-size:12px;
 			 position:absolute;
-			 top:320px;
+			 top:400px;
 			 text-align:center;
-			 width:500px;}
+			 width:500px}
 
 
 
