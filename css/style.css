@@ -248,12 +248,11 @@ div#content {margin-left:0;
 	width: 286px;
 	height: 400px
 }
-.project-text
+.project-description
 {
-	width: 550
+	width: 410px;
+	vertical-align: top
 }
 .project-pic
 {
-	position:relative;
-	left: 400px
 }
