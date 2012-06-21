@@ -34,22 +34,29 @@ body {background:#000;
 	 
 
 .bgtext 					
-		{font-size: 150px;
+		{
+		color:#222;
+		 font-family:verdana, sans serif;
+		font-size: 150px;
 		 position:absolute;
 		 top:50px;
 		 left:-110px;
-		 right:-80px}
+		 right:-80px;
+		 font-variant:small-caps
+		 }
 
-.bgtext, .footertext 
-		{color:#222;
-		 font-family:verdana, helvetica, sans serif;}
+
 
 #index-bgtext
 {
 	color:#00FF00;
+	text-shadow: -3px 3px 10px yellow;
 }
 		 
-.footertext {font-size:12px;
+.footertext {
+			color:#222;
+			font-family:verdana, sans serif
+			font-size:12px;
 			 position:absolute;
 			 top:320px;
 			 text-align:center;
@@ -59,19 +66,19 @@ body {background:#000;
 
 div#text1, div#text2, div#text3, div#text4, div#text5, div#text6, div#text7
          {color:#222222;
-		  font-family:verdana, helvetica, sans serif;
+		  font-family: verdana, helvetica, sans serif;
 		  position:absolute;}
 
 div#text1 {font-size:29px;
-		top:6px;
-		left:0px;}
+		top:0px;
+		left:-15px;}
 		
 div#text2 {font-size:60px;
-		top:46px;
+		top:25px;
 		left:20px;}
 		
 div#text3 {font-size:35px;
-		top:60px;
+		top:40px;
 		left:300px;}
 		
 div#text4 {font-size:50px;
@@ -83,8 +90,8 @@ div#text5 {font-size:39px;
 		left:260px;}
 		
 div#text6 {font-size:45px;
-		top:-5px;
-		left:200px;}
+		top:-25px;
+		left:220px;}
 		
 div#text7 {font-size:28px;
 		top:254px;
@@ -98,7 +105,7 @@ div#text7 {font-size:28px;
 						left: 0px; 
 						width:}
 
- div#text2 a:hover span {top: -10px; 
+ div#text2 a:hover span {top: 0px; 
 						left: 0px; 
 						width:}
 						
@@ -145,10 +152,10 @@ div#inner a:hover {text-decoration:none}
 
 
 div#content {position:absolute;
-			 top:-50px;
-			 left:-70px;
-			 width:635px;
-			 height: 400px;
+			 top:-230px;
+			 left:-150px;
+			 width:800px;
+			 height: 700px;
 			 overflow: auto;
 			 font-family: verdana, helvetica, sans serif;
 			 font-size: 13px;
@@ -171,12 +178,12 @@ div#close, div#top
 		   border: 1px solid #222}
    
 div#top {position:relative;
-		   left:573px;
-		   top:319px}
+		   left:658px;
+		   top:439px}
 
 div#close {position:relative;
-		   left:573px;
-		   top:-47px;}
+		   left:658px;
+		   top:-237px;}
 		   
 div#inner div#close a:link, div#inner div#top a:link {color:#fff; cursor:default;}
 div#inner div#close a:visited, div#inner div#top a:visited {color:#fff; cursor:default;}
@@ -187,8 +194,8 @@ div#inner div#close a:hover, div#inner div#top a:hover {color:#fff; cursor:defau
 div#urltext {font-family:verdana, helvetica, sans serif;
 			 font-size:30px;
 			 position:absolute;
-			 top:-87px;
-			 left:-69px} 
+			 top:-267px;
+			 left:-149px}
 
 
 
@@ -206,7 +213,7 @@ div#content {margin-left:0;
 			 
 			 
 .titleblock {font-family:verdana, helvetica, sans serif;
-				font-size:12px;
+				font-size:14px;
 				color:#ff7c11;
 				font-weight:;
 				margin-right:6px;
