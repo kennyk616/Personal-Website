@@ -86,11 +86,11 @@ div#home-1, div#home-2, div#home-3, div#home-4, div#home-5, div#home-6, div#home
 		  }
 
 div.text1 {font-size:29px;
-		top:-10px;
+		top:-20px;
 		left:-15px;}
 		
 div.text2 {font-size:60px;
-		top:20px;
+		top:10px;
 		left:20px;}
 		
 div.text3 {font-size:35px;
@@ -106,7 +106,7 @@ div.text5 {font-size:39px;
 		left:255px;}
 		
 div.text6 {font-size:45px;
-		top:-35px;
+		top:-50px;
 		left:220px;}
 		
 div.text7 {font-size:28px;
@@ -135,7 +135,7 @@ div.text7 {font-size:28px;
 						left: 0px; 
 						width:}
 						
- div.text6 a:hover span {top: -4px; 
+ div.text6 a:hover span {top: 0px; 
 						left: 0px; 
 						width:}
 						
