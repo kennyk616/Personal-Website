@@ -8,10 +8,10 @@ html {
 body {background:#000;
       margin:0;
 	  /* code used for IE */
-	  scrollbar-3dlight-color:#222;
+	  scrollbar-3dlight-color:#888;
       scrollbar-arrow-color:#FFF;
       scrollbar-base-color:#000;
-      scrollbar-darkshadow-color:#222;
+      scrollbar-darkshadow-color:#888;
       scrollbar-face-color:#000;
       scrollbar-highlight-color:#000;
       scrollbar-shadow-color:#000
