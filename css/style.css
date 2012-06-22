@@ -14,7 +14,15 @@ body {background:#000;
       scrollbar-face-color:#000;
       scrollbar-highlight-color:#000;
       scrollbar-shadow-color:#000}
-	  		
+
+.youtube
+{
+	width: 350px;
+	height: 197px;
+	margin: 0;
+	padding: 0;
+	border: none;
+}	  
 
 #outer        				 
 	{position: absolute;
@@ -252,7 +260,7 @@ div#content {margin-left:0;
 		margin-top: -5px;
 }
 
-#about-pic
+#center-div
 {
 	text-align: center;
 	padding-top: 20px
