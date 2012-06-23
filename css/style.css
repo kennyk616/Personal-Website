@@ -138,8 +138,9 @@ body {background:#000;
 	color:#FFFFFF;
 	text-shadow: 0 0 24px #0083EE, 0 0 8px #0083EE, 
 				0 0 8px #0083EE, 0 0 4px #0083EE, 
-				0 0 4px #0083EE, 0 0 4px #0083EE, 0 0 4px #0083EE;					
-				
+				0 0 4px #0083EE, 0 0 4px #0083EE, 0 0 4px #0083EE;		
+	filter: progid:DXImageTransform.Microsoft.Glow(strength=4,color=#0083EE);
+							
 }
 		 
 div#footertext {
