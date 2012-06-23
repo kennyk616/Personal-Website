@@ -136,10 +136,10 @@ body {background:#000;
 #index-bgtext
 {
 	color:#FFFFFF;
-	/*text-shadow: 3px 3px 15px #ff7c11;*/
-	text-shadow: 0 0 24px #1C74BE, 0 0 8px #1C74BE, 
-				0 0 8px #1C74BE, 0 0 4px #1C74BE, 
-				0 0 4px #1C74BE, 0 0 4px #1C74BE, 0 0 4px #1C74BE;
+	text-shadow: 0 0 24px #0083EE, 0 0 8px #0083EE, 
+				0 0 8px #0083EE, 0 0 4px #0083EE, 
+				0 0 4px #0083EE, 0 0 4px #0083EE, 0 0 4px #0083EE;					
+				
 }
 		 
 div#footertext {
