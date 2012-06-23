@@ -163,40 +163,40 @@ div#home-1, div#home-2, div#home-3, div#home-4, div#home-5, div#home-6, div#home
 		  0px 0px 5px #000000, 0px 0px 5px #000000;
 		  }
 */
-div.text1 {font-size:29px;
+div.text1 {font-size:55px;
+		top:15px;
+		left:25px;}
+		
+div.text2 {font-size:33px;
 		top:-10px;
-		left:-30px;}
+		left:360px;}
 		
-div.text2 {font-size:40px;
-		top:40px;
-		left:-5px;}
+div.text3 {font-size:44px;
+		top:30px;
+		left:285px;}
 		
-div.text3 {font-size:60px;
-		top:0px;
-		left:325px;}
+div.text4 {font-size:42px;
+		top:200px;
+		left:200px;}
 		
-div.text4 {font-size:35px;
-		top:215px;
-		left:60px;}
-		
-div.text5 {font-size:28px;
-		top:270px;
-		left:300px;}
+div.text5 {font-size:35px;
+		top:260px;
+		left:55px;}
 
 
- div.text1 a:hover span {top: -3px; 
+ div.text1 a:hover span {top: -10px; 
 						left: 0px; 
 						}
 
- div.text2 a:hover span {top: -1px; 
+ div.text2 a:hover span {top: -8px; 
 						left: 0px; 
 						}
 						
- div.text3 a:hover span {top: -6px; 
+ div.text3 a:hover span {top: -8px; 
 						left: 0px; 
 						}
 
- div.text4 a:hover span {top: 1px; 
+ div.text4 a:hover span {top: -4px; 
 						left: 0px; 
 						}
 		
