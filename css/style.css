@@ -167,23 +167,23 @@ div.text1, div.text2, div.text3, div.text4, div.text5
 
 div.text1 {font-size:55px;
 		top:15px;
-		left:25px;}
+		left:-5px;}
 		
 div.text2 {font-size:33px;
 		top:-10px;
-		left:360px;}
+		left:345px;}
 		
 div.text3 {font-size:44px;
 		top:30px;
-		left:285px;}
+		left:265px;}
 		
 div.text4 {font-size:42px;
 		top:200px;
-		left:200px;}
+		left:150px;}
 		
 div.text5 {font-size:35px;
 		top:260px;
-		left:55px;}
+		left:35px;}
 
 
  div.text1 a:hover span {top: -10px; 
