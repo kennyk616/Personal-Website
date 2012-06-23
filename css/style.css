@@ -122,7 +122,7 @@ body {
 
 .bgtext  					
 		{
-		color:#171717;
+		color:#111111;
 		 font-family: "Helvetica Neue", serif;
 		font-size: 150px;
 		font-variant:small-caps;
@@ -160,7 +160,7 @@ div#footertext {
 
 
 div.text1, div.text2, div.text3, div.text4, div.text5
-         {color:#171717;
+         {color:#111111;
 		  font-family: arial, helvetica, sans-serif;
 		  position:absolute;
 		  }
