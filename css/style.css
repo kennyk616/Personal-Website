@@ -121,7 +121,7 @@ body {background:#000;
 .bgtext  					
 		{
 		color:#171717;
-		 font-family: "Helvetica Neue", Garamond, Georgia, sans-serif;
+		 font-family: "Helvetica Neue", serif;
 		font-size: 150px;
 		font-variant:small-caps;
 		 position:absolute;
@@ -143,7 +143,7 @@ body {background:#000;
 }
 		 
 div#footertext {
-			color: white;
+			color:#EEEEEE;
 			font-family:verdana, sans serif;
 			font-size:12px;
 			 position:absolute;
@@ -152,85 +152,68 @@ div#footertext {
 			 width:500px}
 
 
-div.text1, div.text2, div.text3, div.text4, div.text5, div.text6, div.text7
+div.text1, div.text2, div.text3, div.text4, div.text5
          {color:#171717;
-		  font-family: verdana, helvetica, sans serif;
+		  font-family: arial, helvetica, sans serif;
 		  position:absolute;
 		  }
+/*
 div#home-1, div#home-2, div#home-3, div#home-4, div#home-5, div#home-6, div#home-7{
 		text-shadow: 0px 0px 5px #000000, 0px 0px 10px #000000, 0px 0px 5px #000000,
 		  0px 0px 5px #000000, 0px 0px 5px #000000;
 		  }
-
+*/
 div.text1 {font-size:29px;
-		top:-20px;
-		left:-15px;}
+		top:-10px;
+		left:-30px;}
 		
-div.text2 {font-size:60px;
-		top:10px;
-		left:20px;}
+div.text2 {font-size:40px;
+		top:40px;
+		left:-5px;}
 		
-div.text3 {font-size:35px;
-		top:30px;
+div.text3 {font-size:60px;
+		top:0px;
+		left:325px;}
+		
+div.text4 {font-size:35px;
+		top:215px;
+		left:60px;}
+		
+div.text5 {font-size:28px;
+		top:270px;
 		left:300px;}
-		
-div.text4 {font-size:50px;
-		top:205px;
-		left:35px;}
-		
-div.text5 {font-size:39px;
-		top:205px;
-		left:255px;}
-		
-div.text6 {font-size:45px;
-		top:-50px;
-		left:220px;}
-		
-div.text7 {font-size:28px;
-		top:259px;
-		left:330px;}
-
 
 
  div.text1 a:hover span {top: -3px; 
 						left: 0px; 
-						width:}
+						}
 
- div.text2 a:hover span {top: 0px; 
+ div.text2 a:hover span {top: -1px; 
 						left: 0px; 
-						width:}
+						}
 						
- div.text3 a:hover span {top: -4px; 
+ div.text3 a:hover span {top: -6px; 
 						left: 0px; 
-						width:}
+						}
 
- div.text4 a:hover span {top: -6px; 
+ div.text4 a:hover span {top: 1px; 
 						left: 0px; 
-						width:}
+						}
 		
- div.text5 a:hover span {top: -6px; 
+ div.text5 a:hover span {top: -4px; 
 						left: 0px; 
-						width:}
-						
- div.text6 a:hover span {top: 0px; 
-						left: 0px; 
-						width:}
-						
- div.text7 a:hover span {top: -4px; 
-						left: 0px; 
-						width:}
-								   
+						}
+							   
 div#inner a:hover, div#inner2 a:hover
 				  {background: none;
-				   cursor:crosshair;}
+				   cursor:pointer;}
 
 div#inner a span {display: none;}
 
 div#inner a:visited span {display:none;}
 
 div#inner a {text-decoration: none;
-			 color:white;}
-
+			 color:#EEEEEE}
 div#inner a:hover span {display: block;
 						position:relative;
 						background:none;
@@ -251,7 +234,7 @@ div#content {position:absolute;
 			 overflow: auto;
 			 font-family: verdana, helvetica, sans serif;
 			 font-size: 13px;
-            color:#BBBBBB;
+            color:#EEEEEE;
 			 text-align:justify;
 			 margin:3px;}
 
@@ -307,7 +290,7 @@ div#content {margin-left:0;
 .titleblock {font-family:verdana, helvetica, sans serif;
 				font-size:14px;
 				color:#ff7c11;
-				font-weight:;
+				/*font-weight:;*/
 				margin-right:6px;
 				margin-top:10px;
 				margin-bottom:10px;
