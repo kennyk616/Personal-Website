@@ -1,5 +1,5 @@
 html {
-	background: url("../images/background.jpg") no-repeat center center fixed;
+	/*background: url("../images/background.jpg") no-repeat center center fixed;*/
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -121,7 +121,7 @@ body {background:#000;
 .bgtext  					
 		{
 		color:#171717;
-		 font-family: HelveticaNeue, Georgia, serif;
+		 font-family: "Helvetica Neue", Garamond, Georgia, sans-serif;
 		font-size: 150px;
 		font-variant:small-caps;
 		 position:absolute;
@@ -251,7 +251,7 @@ div#content {position:absolute;
 			 overflow: auto;
 			 font-family: verdana, helvetica, sans serif;
 			 font-size: 13px;
-			 color:white;
+            color:#BBBBBB;
 			 text-align:justify;
 			 margin:3px;}
 
