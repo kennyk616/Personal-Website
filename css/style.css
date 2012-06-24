@@ -1,5 +1,5 @@
 html {
-	background: url("../images/background.jpg") no-repeat center center fixed;
+	/*background: url("../images/background.jpg") no-repeat center center fixed;*/
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -8,7 +8,7 @@ html {
 
 
 body {
-	background:#000;
+	background:#111111;
       margin:0;
       padding: 0px;
       height: 100%;
@@ -126,7 +126,7 @@ body {
 
 .bgtext  					
 		{
-		color:#111111;
+		color:#222222;
 		 font-family: Baskerville, "Palatino LT STD", Georgia, Times, Times New Roman, serif;
 		font-size: 150px;
 		font-variant:small-caps;
@@ -171,7 +171,7 @@ div#footertext {
 
 
 div.text1, div.text2, div.text3, div.text4, div.text5
-         {color:#111111;
+         {color:#222222;
 		  font-family: "helvetica neue", helvetica, verdana, arial, sans-serif;
 		  position:absolute;
 		  }
@@ -246,7 +246,7 @@ div#content {position:absolute;
 			 height: 550px;
 			 overflow: auto;
 			 font-family: "helvetica neue", helvetica, verdana, arial, sans-serif;
-			 font-size: 13px;
+			 font-size: 15px;
             color:#EEEEEE;
 			 text-align:justify;
 			 margin:3px;}
@@ -301,7 +301,7 @@ div#content {margin-left:0;
 			 
 			 
 .titleblock {font-family:"helvetica neue", helvetica, verdana, arial, sans-serif;
-				font-size:14px;
+				font-size:17px;
 				color:#ff7c11;
 				/*font-weight:;*/
 				margin-right:6px;
@@ -322,7 +322,8 @@ div#content {margin-left:0;
 {
 		margin-left: 10px;
 		margin-right: 30px;
-		margin-top: -5px;
+		margin-top: 0px;
+    padding-bottom: 5px;
 }
 
 #center-div
