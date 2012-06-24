@@ -144,13 +144,17 @@ body {
 	color:#FFFFFF;
 	/*text-shadow: 0 0 24px #0083EE, 0 0 8px #0083EE, 
 				0 0 8px #0083EE, 0 0 4px #0083EE, 
-				0 0 4px #0083EE, 0 0 4px #0083EE, 0 0 4px #0083EE;
+				0 0 4px #0083EE, 0 0 4px #0083EE, 0 0 4px #0083EE;*/
 				
-	/*			text-shadow: 0 0 24px #ff7c11, 0 0 8px #ff7c11, 
+				/*text-shadow: 0 0 24px #ff7c11, 0 0 8px #ff7c11, 
 				0 0 4px #ff7c11, 0 0 4px #ff7c11;*/
 				
-	/*text-shadow: 0 0 24px #FFFFFF, 0 0 8px #FFFFFF, 
-				0 0 4px #FFFFFF, 0 0 4px #FFFFFF;
+	/*text-shadow: 0 0 24px #0083EE, 0 0 8px #0083EE, 
+    0 0 4px #0083EE, 0 0 4px #0083EE;*/
+    
+    text-shadow: 2px 2px 4px #FF7C11, 2px 2px 4px #FF7C11, 2px 2px 4px #FF7C11;
+    /*text-shadow: 2px 2px 4px #0083EE, 2px 2px 4px #0083EE, 2px 2px 4px #0083EE; */
+    
 	/* for IE */					
 	filter: progid:DXImageTransform.Microsoft.Glow(strength=4,color=#ff7c11);
 							
