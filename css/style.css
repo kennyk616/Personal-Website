@@ -1,6 +1,6 @@
 html {
 	/*background: url("../images/background.jpg") no-repeat center center fixed;*/
-	
+	background: url("../images/thumb01.jpg") no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -10,7 +10,8 @@ html {
 
 body {
 	/*background:#111111;*/
-	background: url("../images/small_box.png") repeat;
+	/*background: #111111;
+	background: url("../images/thumb02.jpg") no-repeat center center fixed;*/
       margin:0;
       padding: 0px;
       height: 100%;
