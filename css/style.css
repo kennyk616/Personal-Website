@@ -155,22 +155,12 @@ body {
     
     /*text-shadow: 2px 2px 4px #FF7C11, 2px 2px 4px #FF7C11, 2px 2px 4px #FF7C11;*/
     /*text-shadow: 2px 2px 4px #0083EE, 2px 2px 4px #0083EE, 2px 2px 4px #0083EE; */
-    /*
-     * 3-D
-     *text-shadow: 0 1px 0 #ccc, 
-               0 2px 0 #c9c9c9,
-               0 3px 0 #bbb,
-               0 4px 0 #b9b9b9,
-               0 5px 0 #aaa,
-               0 6px 1px rgba(0,0,0,.1),
-               0 0 5px rgba(0,0,0,.1),
-               0 1px 3px rgba(0,0,0,.3),
-               0 3px 5px rgba(0,0,0,.2),
-               0 5px 10px rgba(0,0,0,.25),
-               0 10px 10px rgba(0,0,0,.2),
-               0 20px 20px rgba(0,0,0,.15);*/
-              
-              text-shadow: 0px -1px 4px white, 0px -2px 10px yellow, 0px -10px 20px #ff8000, 0px -18px 40px red;
+             
+    /* flames    */     
+     text-shadow: 0px -2px 8px white, 
+     0px -4px 20px yellow, 
+     0px -20px 40px #ff8000, 
+     0px -36px 80px red;
 	/* for IE */					
 	filter: progid:DXImageTransform.Microsoft.Glow(strength=4,color=#ff7c11);
 							
@@ -191,15 +181,15 @@ div.text1, div.text2, div.text3, div.text4, div.text5
 		  }
 
 div.text1 {font-size:60px;
-		top:0px;
+		top:-10px;
 		left:10px;}
 		
 div.text2 {font-size:28px;
-		top:-15px;
+		top:-25px;
 		left:355px;}
 		
 div.text3 {font-size:49px;
-		top:15px;
+		top:5px;
 		left:270px;}
 		
 div.text4 {font-size:42px;
