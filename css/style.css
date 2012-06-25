@@ -12,6 +12,7 @@ body {
 	/*background:#111111;*/
 	/*background: #111111;
 	background: url("../images/thumb02.jpg") no-repeat center center fixed;*/
+	font-family:"helvetica neue", helvetica, verdana, arial, sans-serif;
       margin:0;
       padding: 0px;
       height: 100%;
@@ -130,7 +131,7 @@ body {
 .bgtext  					
 		{
 		color:#222222;
-		 font-family: Baskerville, "Palatino LT STD", Georgia, Times, Times New Roman, serif;
+/*		 font-family: Baskerville, "Palatino LT STD", Georgia, Times, Times New Roman, serif;*/
 		font-size: 150px;
 		font-variant:small-caps;
 		 position:absolute;
@@ -151,11 +152,8 @@ body {
 				
 				/*text-shadow: 0 0 24px #ff7c11, 0 0 8px #ff7c11, 
 				0 0 4px #ff7c11, 0 0 4px #ff7c11;*/
-				
-	/*text-shadow: 0 0 24px #0083EE, 0 0 8px #0083EE, 
-    0 0 4px #0083EE, 0 0 4px #0083EE;*/
     
-    text-shadow: 2px 2px 4px #FF7C11, 2px 2px 4px #FF7C11, 2px 2px 4px #FF7C11;
+    /*text-shadow: 2px 2px 4px #FF7C11, 2px 2px 4px #FF7C11, 2px 2px 4px #FF7C11;*/
     /*text-shadow: 2px 2px 4px #0083EE, 2px 2px 4px #0083EE, 2px 2px 4px #0083EE; */
     
 	/* for IE */					
@@ -165,7 +163,6 @@ body {
 		 
 div#footertext {
 			color:#EEEEEE;
-			font-family:"helvetica neue", helvetica, verdana, arial, sans-serif;
 			font-size:12px;
 			 position:absolute;
 			 top:380px;
@@ -175,7 +172,6 @@ div#footertext {
 
 div.text1, div.text2, div.text3, div.text4, div.text5
          {color:#222222;
-		  font-family: "helvetica neue", helvetica, verdana, arial, sans-serif;
 		  position:absolute;
 		  }
 
@@ -248,7 +244,6 @@ div#content {position:absolute;
 			 width:800px;
 			 height: 550px;
 			 overflow: auto;
-			 font-family: "helvetica neue", helvetica, verdana, arial, sans-serif;
 			 font-size: 15px;
             color:#EEEEEE;
 			 text-align:justify;
@@ -263,7 +258,6 @@ div#close, div#top
 		   height:17px;
 		   background:none;
 		   text-align:center;
-		   font-family:"helvetica neue", helvetica, verdana, arial, sans-serif;
 		   font-weight:bold;
 		   font-size:12px;
 		   border: 1px solid #222}
@@ -282,7 +276,7 @@ div#inner div#close a:hover, div#inner div#top a:hover {color:#fff; cursor:defau
 
 
 
-div#urltext {font-family:"helvetica neue", helvetica, verdana, arial, sans-serif;
+div#urltext {
 			 font-size:30px;
 			 position:absolute;
 			 top:-87px;
@@ -303,7 +297,7 @@ div#content {margin-left:0;
 			 
 			 
 			 
-.titleblock {font-family:"helvetica neue", helvetica, verdana, arial, sans-serif;
+.titleblock {
 				font-size:17px;
 				color:#ff7c11;
 				/*font-weight:;*/
