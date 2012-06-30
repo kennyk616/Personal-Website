@@ -155,12 +155,14 @@ body {
     
     /*text-shadow: 2px 2px 4px #FF7C11, 2px 2px 4px #FF7C11, 2px 2px 4px #FF7C11;*/
     /*text-shadow: 2px 2px 4px #0083EE, 2px 2px 4px #0083EE, 2px 2px 4px #0083EE; */
-             
-    /* flames    */     
-     text-shadow: 0px -2px 8px white, 
-     0px -4px 20px yellow, 
-     0px -20px 40px #ff8000, 
-     0px -36px 80px red;
+    text-shadow: 0px 2px 0px #999, 
+    0px 4px 0px #888, 
+    0px 6px 0px #777, 
+    0px 8px 0px #666, 
+    0px 10px 0px #555, 
+    0px 12px 0px #444, 
+    0px 14px 0px #333, 
+    0px 16px 14px #001135;       
 	/* for IE */					
 	filter: progid:DXImageTransform.Microsoft.Glow(strength=4,color=#ff7c11);
 							
@@ -181,15 +183,15 @@ div.text1, div.text2, div.text3, div.text4, div.text5
 		  }
 
 div.text1 {font-size:60px;
-		top:-10px;
+		top:-2px;
 		left:10px;}
 		
 div.text2 {font-size:28px;
-		top:-25px;
+		top:-18px;
 		left:355px;}
 		
 div.text3 {font-size:49px;
-		top:5px;
+		top:12px;
 		left:270px;}
 		
 div.text4 {font-size:42px;
@@ -290,7 +292,7 @@ div#urltext {
 
 
 div#urltext, div#inner div#content a:link, div#inner div#content a:visited, div#inner a:hover, div#inner a:hover span, div#footertext a:link, div#footertext a:visited
-   			 {color:#ff7c11}
+   			 {color:#ff7c11;	/* #00AEEF*/}
 			 
 div#content div#titlebar {border: 1px solid #222222;
 				background: #000;
@@ -305,6 +307,7 @@ div#content {margin-left:0;
 .titleblock {
 				font-size:17px;
 				color:#ff7c11;
+				/*color: #00AEEF;*/
 				/*font-weight:;*/
 				margin-right:6px;
 				margin-top:10px;
